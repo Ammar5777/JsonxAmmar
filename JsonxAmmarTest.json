@@ -1,0 +1,36 @@
+{
+  "UserInfo": [
+    {
+      "UserId": "0",
+      "Firstname": "Jonathan",
+      "Surname": "Bardwell",
+      "PlayerDesc": "Into the Wild",
+      "MaxGold": "523",
+      "Team": "Red"
+    },
+    {
+      "UserId": "1",
+      "Firstname": "Terry",
+      "Surname": "Smith",
+      "PlayerDesc": "Into the Sun",
+      "MaxGold": "23",
+      "Team": "Blue"
+    },
+    {
+      "UserId": "2",
+      "Firstname": "Emily",
+      "Surname": "Jones",
+      "PlayerDesc": "Into the Coding",
+      "MaxGold": "1234",
+      "Team": "Blue"
+    },
+    {
+      "UserId": "3",
+      "Firstname": "Olivia",
+      "Surname": "Brown",
+      "PlayerDesc": "Into the Mess",
+      "MaxGold": "765",
+      "Team": "Red"
+    }
+  ]
+}
